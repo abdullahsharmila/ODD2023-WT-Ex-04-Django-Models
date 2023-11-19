@@ -40,8 +40,8 @@ step 3: Now do the migrations process to initiate and save the models
 python manage.py makemigrations 
 python manage.py migrate
 create a template as user_profile.html
+![Alt text](<Screenshot 2023-11-19 214437.png>)
 
-![Alt text](<Screenshot 2023-11-19 182328.png>)
 
 step4:
 Run the program using the following command
@@ -50,9 +50,8 @@ python manage.py runserver 8000
 in the admin page you can view the models created
 and in the user_profile template page you can see the profile page of the user
 # Output
-
-![Alt text](<Screenshot 2023-11-19 174654.png>)
 ![Alt text](<Screenshot 2023-11-19 183410.png>)
+![Alt text](<Screenshot 2023-11-19 213620.png>)
 
 # Result:
 Django model was created successfully
