@@ -50,8 +50,9 @@ python manage.py runserver 8000
 in the admin page you can view the models created
 and in the user_profile template page you can see the profile page of the user
 # Output
+
+![Alt text](<Screenshot 2023-11-19 174654.png>)
 ![Alt text](<Screenshot 2023-11-19 183410.png>)
-![Alt text](<Screenshot 2023-11-19 213620.png>)
 
 # Result:
 Django model was created successfully
