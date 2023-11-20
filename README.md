@@ -31,7 +31,7 @@ write the function based view to render the data from the models to the template
 
 set up the url path for the templates using urls.py
 
-![Alt text](<Screenshot 2023-11-19 181907.png>)
+![Alt text](<Screenshot 2023-11-19 182105.png>)
 
 in settings.py file add the appcreated
 
