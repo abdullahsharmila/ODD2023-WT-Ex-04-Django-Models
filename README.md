@@ -50,7 +50,7 @@ python manage.py runserver 8000
 in the admin page you can view the models created
 and in the user_profile template page you can see the profile page of the user
 # Output
-![Alt text](<Screenshot 2023-11-19 213620.png>)
+![Alt text](<Screenshot 2023-11-21 120354.png>)
 
 ![Alt text](<Screenshot 2023-11-21 092013.png>)
 
